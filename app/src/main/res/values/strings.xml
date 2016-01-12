@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FootPlayer</string>
+    <string name="action_selFile">Select File</string>
+</resources>
